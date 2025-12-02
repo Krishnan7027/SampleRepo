@@ -9,7 +9,7 @@ public class InterfaceChild implements InterfaceParent {
 //		obj.display();
 
 		InterfaceParent obj2 = new InterfaceChild();
-		obj2.get(10, 20);
+		obj2.get(10, 20) ;
 		obj2.display();
 	}
 
